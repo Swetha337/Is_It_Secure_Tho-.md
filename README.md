@@ -8,5 +8,5 @@ STEPS TO FOLLOW: <br/>
 •	Examine Packets Scroll through the filtered HTTP packets. <br/> 
 •	Open the packets and check for the flag. The flag will be embedded within this field. <br/>
 What did i learned: <br/>
-•	you gained a better understanding of the difference between secured and unsecured protocols. <br/>
+•	Gained a better understanding of the difference between secured and unsecured protocols. <br/>
 •	HTTP  is an insecure protocol and HTTPS in a secure protocol

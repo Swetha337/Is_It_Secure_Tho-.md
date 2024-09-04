@@ -1,4 +1,4 @@
-# *wireless*
+# *Wireless*
 # Is_It_Secure_Tho-
 STEPS TO FOLLOW: <br/>
 •	To solve the challenge using the rebel_ctf.pcapng file in Wireshark, follow these steps: Launch Wireshark and open the rebel_ctf.pcapng file. <br/>
